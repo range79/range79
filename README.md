@@ -1,5 +1,5 @@
 # 💫 Hakkımda
-Şu anda Java öğreniyorum ve yazılım becerilerimi geliştirmeye çalışıyorum. Ayrıca Bash dilinde script yazma konusunda deneyimim var.
+merhabalar ben Azad 18 yaşında bilgisayar mühendisliği öğrencisiyim.Şu anda Java öğreniyorum ve yazılım becerilerimi geliştirmeye çalışıyorum. Ayrıca Bash dilinde script yazma konusunda deneyimim var.
 
 ## 🌐 Sosyal Medya
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&logoWidth=40&style=for-the-badge)](https://x.com/range9164)  
