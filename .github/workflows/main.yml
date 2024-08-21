@@ -2,7 +2,6 @@ name: Yılan Görseli Oluştur
 
 on:
   schedule:
-    # Her 6 saatte bir çalışır
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -11,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Depoyu kontrol eder, böylece iş akışı dosyalara erişebilir
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # V3 sürümü en güncel ve uyumlu olanıdır.
+        with:
+          fetch-depth: 0  # Tam bir geçmişle kontrol edin (opsiyonel, ancak genellikle daha güvenilir)
 
-      # Yılan görselini oluşturur
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -22,18 +21,15 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Değişikliklerin durumunu gösterir, sorun gidermeyi kolaylaştırır
       - run: git status
 
-      # Değişiklikleri `output` dalına (branch) gönderir
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0  # Güncel sürüm
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: output
           force: true
 
-      # `dist` dizinindeki dosyaları GitHub Pages'e yükler
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
