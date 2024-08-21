@@ -1,5 +1,5 @@
-# 💫 Hakkımda
-Şu anda Java öğreniyorum ve yazılım becerilerimi geliştirmeye çalışıyorum.
+\# 💫 Hakkımda
+Şu anda Java öğreniyorum ve yazılım becerilerimi geliştirmeye çalışıyorum. Ayrıca Bash dilini de biliyorum.
 
 ## 🌐 Sosyal Medya
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/range9164)  
@@ -8,9 +8,10 @@
 ## 💻 Teknoloji Yığını
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 📊 GitHub İstatistikleri 
+## 📊 GitHub İstatistikleri
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=range79&theme=dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=range79&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
