@@ -1,5 +1,5 @@
-\# 💫 Hakkımda
-Şu anda Java öğreniyorum ve yazılım becerilerimi geliştirmeye çalışıyorum. Ayrıca Bash dilini de biliyorum.
+# 💫 Hakkımda
+Şu anda Java öğreniyorum ve yazılım becerilerimi geliştirmeye çalışıyorum. Ayrıca Bash betikleri yazma konusunda deneyimim var.
 
 ## 🌐 Sosyal Medya
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/range9164)  
