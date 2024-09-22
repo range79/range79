@@ -9,8 +9,6 @@ Merhabalar, ben Azad. 18 yaşında bilgisayar mühendisliği öğrencisiyim. Şu
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white&logoWidth=40&style=for-the-badge)](https://t.me/onlyrange)  
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&logoWidth=40&style=for-the-badge)](mailto:darkrange6@gmail.com?subject=Selam%20Azad&body=Merhaba Azad,%0A%0AProfilini inceledim ve yazılım projelerinle ilgili konuşmak isterim. Yeni projelerin veya öğrenme süreçlerin hakkında bilgi verirsen çok sevinirim.%0A%0ATeşekkürler!%0A)
 
-
-
 ## 💻 Teknoloji Yığını
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=40)  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&logoWidth=40)  
