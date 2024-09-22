@@ -7,7 +7,8 @@ Merhabalar, ben Azad. 18 yaşında bilgisayar mühendisliği öğrencisiyim. Şu
 ## 🌐 Sosyal Medya
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&logoWidth=40&style=for-the-badge)](https://x.com/range9164)  
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white&logoWidth=40&style=for-the-badge)](https://t.me/onlyrange)  
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&logoWidth=40&style=for-the-badge)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=darkrange6@gmail.com&su=Mesaj Başlığı&body=Mesaj İçeriği)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&logoWidth=40&style=for-the-badge)](mailto:darkrange6@gmail.com?subject=Mesaj%20Başlığı&body=Mesaj%20İçeriği)
+
 
 
 ## 💻 Teknoloji Yığını
