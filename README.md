@@ -2,10 +2,6 @@
 
 ### Hi, I'm Azad  
 I'm a backend developer focused on Java and Spring Boot. I like building things and learning as I go. Right now, I'm working on improving my skills and writing clean, simple code. Still learning — always trying to do better than yesterday.
-
-### Merhaba, ben Azad  
-Java ve Spring Boot odaklı backend geliştiricisiyim. Yeni şeyler yapmayı ve öğrenmeyi seviyorum. Şu anda becerilerimi geliştirmeye ve temiz, sade kod yazmaya çalışıyorum. Hâlâ öğreniyorum — her gün dün olduğumdan daha iyi olmaya çalışıyorum.
-
 ---
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
