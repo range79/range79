@@ -48,13 +48,13 @@
 ## 🌍 Connect
 
 <p align="center">
-  <a href="mailto:darkrange6s@gmail.com" title="Email">
+  <a href="mailto:darkrange6@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/range79/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/onlyrange" title="Telegram">
+  <a href="https://t.me/range79x" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
 </p>
