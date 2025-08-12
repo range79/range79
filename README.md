@@ -80,7 +80,7 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=range79&color=blue)
 
 ---
-## WakaTime
+<!--## WakaTime -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
