@@ -78,3 +78,9 @@
 
 ---
  ![Profile Views](https://komarev.com/ghpvc/?username=range79&color=blue)
+
+---
+## WakaTime
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=range79&theme=radical)
+
