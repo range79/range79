@@ -81,6 +81,6 @@
 
 ---
 ## WakaTime
-
+<!-- WakaTime Stats -->
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=range79&theme=radical)
 
