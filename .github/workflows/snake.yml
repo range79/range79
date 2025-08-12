@@ -1,34 +1,30 @@
-name: Generate snake animation
+name: WakaTime Stats Update
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: '0 * * * *' # her saat günceller
   workflow_dispatch:
 
-  push:
-    branches:
-    - main
-
 jobs:
-  generate:
-    permissions:
-      contents: write
+  update-readme:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+      - name: Checkout
+        uses: actions/checkout@v3
 
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Generate WakaTime Stats
+        uses: athul/waka-readme@master
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+          SHOW_COMMIT: true
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add .
+          git commit -m "Updated WakaTime stats"
+          git push
