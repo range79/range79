@@ -47,7 +47,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=range79&show_icons=true&theme=chartreuse-dark&hide_title=true&count_private=true&include_all_commits=true" height="135" style="border-radius:8px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=range79&layout=compact&langs_count=6&include_all_commits=true&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
-  <img src="https://streak-stats.demolab.com?user=range79&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
+  <img src="https://streak-stats.demolab.com?user=range79&theme=chartreuse-dark&count_private=true&include_all_commits=true"" height="135" style="border-radius:8px;"/>
 </div>
 
 ---
