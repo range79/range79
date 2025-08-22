@@ -44,11 +44,13 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=range79&theme=chartreuse-dark&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" height="135" style="border-radius:8px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=range79&layout=compact&langs_count=6&include_all_commits=true&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
-  <img src="https://streak-stats.demolab.com?user=range79&theme=chartreuse-dark&count_private=true&include_all_commits=true"" height="135" style="border-radius:8px;"/>
+  <img src="https://streak-stats.demolab.com?user=range79&theme=chartreuse-dark&count_private=true&include_all_commits=true" height="135" style="border-radius:8px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=range79&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&v=5&langs_count=6&include_all_commits=true" height="135" style="border-radius:8px;"/>
 </div>
+
 
 ---
 
