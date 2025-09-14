@@ -85,10 +85,7 @@
 
 ---
  ![Profile Views](https://komarev.com/ghpvc/?username=range79&color=blue)
-
 ---
-<!--## WakaTime -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-
+[![wakatime](https://wakatime.com/badge/user/9f07f2d2-c7b0-4c15-a447-69608d58bec9.svg)](https://wakatime.com/@9f07f2d2-c7b0-4c15-a447-69608d58bec9)
+---
