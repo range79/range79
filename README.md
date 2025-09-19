@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="margin-bottom:0;">
-  Hi, I'm Azad <span style="font-size:0.8em;">(range79)</span> 👋
+  Hi, I'm Azad <span style="font-size:0.8em;">(range79)</span> 
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
   Backend Developer | Java/Kotlin & Spring Enthusiast
@@ -29,16 +29,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-
----
-
-## 👨‍💻 About Me
-
-- 💡 2+ years of backend experience, mainly with **Java** & **Spring Boot**.
-- 🛠️ Focused on **clean code**, **scalable systems**, and **automation**.
-- 🌱 Always learning: currently deepening Docker, Linux, and cloud skills.
-- 🤝 Eager to collaborate and share knowledge.
-- 📚 Fan of refactoring, design patterns, and lifelong growth.
 
 ---
 
