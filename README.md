@@ -6,7 +6,7 @@
   Hi, I'm Azad <span style="font-size:0.8em;">(range79)</span> 
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
-  Backend Developer | Java/Kotlin & Spring Enthusiast
+  Backend Developer
 </p>
 
 ---
