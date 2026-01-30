@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="margin-bottom:0;">
-  Hi, I'm Azad <span style="font-size:0.8em;">(range79)</span> 
+  Hi, I'm  <span style="font-size:0.8em;">range79</span> 
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
   Backend Developer
