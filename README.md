@@ -33,11 +33,16 @@
 ---
 
 ## 📈 GitHub Stats
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 12px; max-width: 100%;">
+  <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats-s5au.vercel.app/api?username=range79&theme=chartreuse-dark&hide_title=true&show_icons=true&count_private=true&show=prs_merged,prs_merged_percentage&hide=contribs,issues&include_all_commits=true" height="135" style="border-radius:8px;"/>
+    <img src="https://github-readme-stats-s5au.vercel.app/api/top-langs?username=range79&layout=compact&langs_count=6&include_all_commits=true&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
+  </div>
+  
 
-<div align="center" style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
-  <img src="https://github-readme-stats-s5au.vercel.app/api?username=range79&theme=chartreuse-dark&hide_title=true&show_icons=true&count_private=true&&show=prs_merged,prs_merged_percentage&hide=contribs,issues&include_all_commits=true" height="135" style="border-radius:8px;"/>
-  <img src="https://github-readme-stats-s5au.vercel.app/api/top-langs?username=range79&layout=compact&langs_count=6&include_all_commits=true&theme=chartreuse-dark" height="135" style="border-radius:8px;"/>
+  <img src="https://streak-stats.demolab.com?user=range79&theme=chartreuse-dark&count_private=true&include_all_commits=true" height="135" style="border-radius:8px;"/>
 </div>
+
 
 ---
 ## 👨‍💻 WakaTime Stats
