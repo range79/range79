@@ -79,6 +79,6 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=range79&color=blue)
 ---
 
-[![wakatime](https://wakatime.com/badge/user/9f07f2d2-c7b0-4c15-a447-69608d58bec9.svg)](https://wakatime.com/@9f07f2d2-c7b0-4c15-a447-69608d58bec9)
-[![committers.top badge](https://user-badge.committers.top/azerbaijan/range79.svg)](https://user-badge.committers.top/azerbaijan/range79)
----
+[![WakaTime](https://wakatime.com/badge/user/9f07f2d2-c7b0-4c15-a447-69608d58bec9.svg)](https://wakatime.com/@9f07f2d2-c7b0-4c15-a447-69608d58bec9)
+[![Committers Azerbaijan](https://user-badge.committers.top/azerbaijan/range79.svg)](https://user-badge.committers.top/azerbaijan/range79.svg)
+[![Committers Azerbaijan Public](https://user-badge.committers.top/azerbaijan_public/range79.svg)](https://user-badge.committers.top/azerbaijan_public/range79.svg)
