@@ -8,6 +8,10 @@
 <p align="center" style="margin-top:0; font-size:1.15em;">
   Backend Developer
 </p>
+<p align="center" style="margin-top:0; font-size:1.15em;">
+ It's my main account, 
+ second github -> https://github.com/range79x)
+
 
 ---
 <p align="center">
