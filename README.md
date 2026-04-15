@@ -23,7 +23,7 @@ Stay safe.
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemN5OHNjNWhpYjR1b2llOTdnanpnbnhudzdudjNpMHNueG84bmppOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" alt="kisuke urahara" width="90" style="border-radius: 50%; box-shadow: 0 0 8px #8cffb2; margin-bottom: 10px;" />
 </p>
 
@@ -40,14 +40,14 @@ Stay safe.
 
 ---
 <p align="center">
-  <!-- Profile Stats -->
+
   <img src="https://img.shields.io/github/followers/range79?style=flat-square&logo=github&label=Followers" />
   <img src="https://img.shields.io/github/stars/range79?style=flat-square&logo=github&label=Stars" />
  
 </p>
 
 <p align="center">
-  <!-- Tech Stack -->
+
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -110,4 +110,4 @@ Stay safe.
 
 [![WakaTime](https://wakatime.com/badge/user/9f07f2d2-c7b0-4c15-a447-69608d58bec9.svg)](https://wakatime.com/@9f07f2d2-c7b0-4c15-a447-69608d58bec9)
 [![Committers Azerbaijan](https://user-badge.committers.top/azerbaijan/range79.svg)](https://user-badge.committers.top/azerbaijan/range79.svg)
-[![Committers Azerbaijan Public](https://user-badge.committers.top/azerbaijan_public/range79.svg)](https://user-badge.committers.top/azerbaijan_public/range79.svg)
+[![Committers Azerbaijan Public](https://user-badge.committers.top/azerbaijan_public/range79.svg)](https://user-badge.committers.top/azerbaijan_public/range79.svg) -->
