@@ -1,3 +1,28 @@
+### Important Notice
+
+Starting April 20, 2026, I will be offline due to military service.
+
+During this period, I will not have access to this account or my projects. Therefore, I am not responsible for any actions, commits, releases, or activities performed under my name or associated with me during this time.
+
+This repository and my other projects will remain as they are until I return. If any issues appear or something requires maintenance, please understand that I will not be able to respond or provide support while I am away.
+
+I would like to thank everyone who supported my projects, used my work, opened issues, contributed, or simply showed interest. Your support means a lot.
+
+I hope the tools and code here continue to be useful to people. Keep building, keep learning, and keep coding.
+
+I will update this README once I return from my service in Autumn 2027.
+
+Wishing everyone productive days and great coding.
+
+Stay safe.
+
+— range79
+2026-04-20 AZT (UTC+4)
+
+
+
+
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemN5OHNjNWhpYjR1b2llOTdnanpnbnhudzdudjNpMHNueG84bmppOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" alt="kisuke urahara" width="90" style="border-radius: 50%; box-shadow: 0 0 8px #8cffb2; margin-bottom: 10px;" />
 </p>
