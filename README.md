@@ -95,19 +95,20 @@ Stay safe.
 
 ---
 
-## ☕ Support
--->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/darkrange6s">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
-
----
-
  ![Profile Views](https://komarev.com/ghpvc/?username=range79&color=blue)
 ---
 
 [![WakaTime](https://wakatime.com/badge/user/9f07f2d2-c7b0-4c15-a447-69608d58bec9.svg)](https://wakatime.com/@9f07f2d2-c7b0-4c15-a447-69608d58bec9)
 [![Committers Azerbaijan](https://user-badge.committers.top/azerbaijan/range79.svg)](https://user-badge.committers.top/azerbaijan/range79.svg)
 [![Committers Azerbaijan Public](https://user-badge.committers.top/azerbaijan_public/range79.svg)](https://user-badge.committers.top/azerbaijan_public/range79.svg) 
+
+-->
+## ☕ Support
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/darkrange6s">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+
