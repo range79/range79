@@ -1,3 +1,5 @@
+
+<!--
 ### Important Notice
 
 Starting April 20, 2026, I will be offline due to military service.
@@ -19,11 +21,11 @@ Stay safe.
 — range79
 2026-04-20 AZT (UTC+4)
 
+-->
 
 
 
-
-<!-- <p align="center">
+ <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemN5OHNjNWhpYjR1b2llOTdnanpnbnhudzdudjNpMHNueG84bmppOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" alt="kisuke urahara" width="90" style="border-radius: 50%; box-shadow: 0 0 8px #8cffb2; margin-bottom: 10px;" />
 </p>
 
@@ -102,7 +104,7 @@ Stay safe.
 [![Committers Azerbaijan](https://user-badge.committers.top/azerbaijan/range79.svg)](https://user-badge.committers.top/azerbaijan/range79.svg)
 [![Committers Azerbaijan Public](https://user-badge.committers.top/azerbaijan_public/range79.svg)](https://user-badge.committers.top/azerbaijan_public/range79.svg) 
 
--->
+
 ## ☕ Support
 
 <p align="center">
