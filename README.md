@@ -1,5 +1,5 @@
 
-<!--
+
 ### Important Notice
 
 Starting April 20, 2026, I will be offline due to military service.
@@ -12,19 +12,19 @@ I would like to thank everyone who supported my projects, used my work, opened i
 
 I hope the tools and code here continue to be useful to people. Keep building, keep learning, and keep coding.
 
-I will update this README once I return from my service in Autumn 2027.
+I will update this README once I return from my service in Autumn 2027(maybe).
 
 Wishing everyone productive days and great coding.
 
 Stay safe.
 
 — range79
-2026-04-20 AZT (UTC+4)
-
--->
+2026-04-27 AZT (UTC+4)
 
 
 
+
+<!--
  <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemN5OHNjNWhpYjR1b2llOTdnanpnbnhudzdudjNpMHNueG84bmppOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" alt="kisuke urahara" width="90" style="border-radius: 50%; box-shadow: 0 0 8px #8cffb2; margin-bottom: 10px;" />
 </p>
@@ -112,5 +112,5 @@ Stay safe.
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7CA88?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
-
+-->
 
