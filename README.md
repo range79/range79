@@ -2,7 +2,7 @@
 
 ### Important Notice
 
-Starting April 20, 2026, I will be offline due to military service.
+Starting April 27, 2026, I will be offline due to military service.
 
 During this period, I will not have access to this account or my projects. Therefore, I am not responsible for any actions, commits, releases, or activities performed under my name or associated with me during this time.
 
